@@ -1,18 +1,18 @@
 {
   "packname": "My Sticker Pack",
   "author": "My Bot",
-  "botName": "Nayan Bot",
+  "botName": "𝐑𝐀𝐈𝐇𝐀𝐍-𝐍𝐎𝐘𝐎𝐍",
   "botOwner": "Mohammad Nayan",
   "autoUpdate": true,
   "runMsg": false,
-  "ownerNumber": "8801615298449",
-  "botNumber": "bot number",
+  "ownerNumber": "61559237171744",
+  "botNumber": "61559237171744",
   "botUid": "bot uid",
   "PREFIX": "/",
   "timeZone": "Asia/Dhaka",
   "admin": [
-    "your number",
-    "your id"
+    "61559237171744",
+    "61559237171744"
   ],
   "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
   "welPic": "https://i.postimg.cc/3JQF0qWf/received-383729254132460.jpg",
